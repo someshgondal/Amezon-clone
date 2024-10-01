@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+.navlogo{
+    background-image: url('amazon_logo.png');
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
+
+.boxc{
+    transition: font-size 2s case-in 0.2s;
+}
